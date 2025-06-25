@@ -1,2 +1,2 @@
 # sharing a jupyter file
-Pandas practice questions
+A list of pandas question to practice
